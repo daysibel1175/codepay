@@ -1,0 +1,14 @@
+:root{
+    /* FONTS */
+    --font-Inter:"Inter, sem serifa";
+
+    /* COLORS */
+    --background-color: #262626;
+    --cinza: #414141;
+    --cinza-claro: #737373;
+    --branco: #ffffff;
+    --verde: #2fbd6a;
+    --input-color: #f9f9f9;
+    --branco-border: #f3efef;
+    --vermelho-danger: #d1402c;
+}
